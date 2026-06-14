@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, My Name is Drishya
 
-<!--
-**drishya2910/drishya2910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Business Analyst | Data Analyst
 
-Here are some ideas to get you started:
+Finding the story behind the numbers and the opportunity behind the problem..
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Skills:**
+- SQL
+- Excel
+- Power BI
+- Python
+- Business Analysis
+- Financial Analysis
+- Data Visualization
+
+###** Featured Projects:**
+#### Bank Customer Churn Analysis
+Excel & Power BI analysis to identify churn drivers and retention opportunities.
+
+#### SaaS Financial Insights
+Revenue, profitability, and cost analysis using Excel, SQL, and Power BI.
+
+#### Global Cybersecurity Threat Analysis
+Trend analysis and visualization using SQL and Power BI.
+
+#### Loan Approval System
+Business requirements, process analysis, and future-state solution design.
+
+### **Certifications:**
+- Business Analysis Certification
+- Data Analytics Training
+
+### Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/drishya-thadani/
+- Email: drishyathadani29@gmail.com
